@@ -1,1 +1,2 @@
 firt commit from cmd
+editing
